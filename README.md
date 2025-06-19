@@ -1,6 +1,6 @@
 # 📊 Customer Banking Data Analysis
 
-This Jupyter notebook project presents a comprehensive exploratory data analysis (EDA) of customer banking data from a fictional banking system. The goal of this analysis is to uncover key insights into customer profiles, financial behaviors, and potential risk factors using data visualization and statistical techniques.
+This project presents a comprehensive exploratory data analysis (EDA) of customer banking data from a fictional banking system. The goal of this analysis is to uncover key insights into customer profiles, financial behaviors, and potential risk factors using data visualization and statistical techniques.
 
 ---
 
