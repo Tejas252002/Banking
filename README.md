@@ -96,7 +96,7 @@ The analysis uses data sourced from a MySQL database named `banking_case`. The p
 ## 📊 Tableau Dashboard
 
 You can interact with the Tableau dashboard here:  
-👉 [View Tableau Dashboard]([https://public.tableau.com/app/profile/yourusername/viz/your_dashboard_name](https://public.tableau.com/views/Banking_17502797323420/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+👉 [View Tableau Dashboard]([https://public.tableau.com/views/Banking_17502797323420/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
 
 This dashboard provides visual insights related to the banking customer dataset used in this analysis.
 
